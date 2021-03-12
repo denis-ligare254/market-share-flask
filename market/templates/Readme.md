@@ -24,6 +24,11 @@
 ## Known Bugs
 
 -No known bugs yet but incase of any reach out to mrisholigare@gmail.com
+## Support and Contact Details
+
+-You can reach out to me at mrisholigare@gmail.com
+for Reviews, Advice, Collaborations and Comments
+
 # Licence 
 ## MIT Licence 
 Copyright (c) <2021> <dennis Ligare>
