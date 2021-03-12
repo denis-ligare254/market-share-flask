@@ -10,6 +10,18 @@
 -here is the link to the remote repository
 (https://github.com/denis-ligare254/market-share-flask) 
 
+## Dependancy Installments
+
+-pip install python3.9
+-pip install flask
+-pip install flask-bootstrap
+-pip install flask-script
+-pip install flask-wtf
+-pip install flask-migrate
+-pip install flask-login
+-pip install Flask-Mail
+-pip install flask-uploads
+
 # Licence 
 ## MIT Licence 
 Copyright (c) <2021> <dennis Ligare>
