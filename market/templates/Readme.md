@@ -1,6 +1,12 @@
 # Simple quote submission
 - Here is a simple quote submission that allow users to make quotes.The user can also create, read and update quotes
 
+# Technology used
+-Below is the list of technologies used in the course of building the project
+   -Flask
+   -Bootstrap4
+   -HTML/CSS3
+   
 
 # Licence 
 ## MIT Licence 
