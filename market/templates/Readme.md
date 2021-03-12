@@ -6,7 +6,9 @@
    -Flask
    -Bootstrap4
    -HTML/CSS3
-   
+# Link to remote repository
+-here is the link to the remote repository
+(https://github.com/denis-ligare254/market-share-flask) 
 
 # Licence 
 ## MIT Licence 
