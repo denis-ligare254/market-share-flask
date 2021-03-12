@@ -21,7 +21,9 @@
 -pip install flask-login
 -pip install Flask-Mail
 -pip install flask-uploads
+## Known Bugs
 
+-No known bugs yet but incase of any reach out to mrisholigare@gmail.com
 # Licence 
 ## MIT Licence 
 Copyright (c) <2021> <dennis Ligare>
